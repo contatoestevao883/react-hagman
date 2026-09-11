@@ -15,7 +15,7 @@ const images = [forca0, forca1, forca2, forca3, forca4, forca5, forca6]
 export default function Jogo() {
     const { errors, gameStart, word, wordColor } = useContext(GameContext)
 
-    retunr (
+    return (
         <Hang>
             <img src={images[errors]} alt="Forca" />
             <button onClick={gameStart}>Sortear uma palavra aleatória</button>
