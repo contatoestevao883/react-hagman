@@ -6,7 +6,7 @@ O objetivo é descobrir a palavra secreta letra por letra. A cada erro, uma part
 
 ## Demo
 
-[https://react-hangman.vercel.app](https://react-hangman.vercel.app)
+[https://react-hagman.vercel.app](https://react-hagman.vercel.app)
 
 ## Funcionalidades
 
